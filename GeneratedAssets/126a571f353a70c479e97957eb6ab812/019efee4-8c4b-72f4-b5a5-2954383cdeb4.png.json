@@ -1,0 +1,31 @@
+{
+    "asset": "126a571f353a70c479e97957eb6ab812",
+    "fileName": "019efee4-8c4b-72f4-b5a5-2954383cdeb4.png",
+    "prompt": "A stylized 2D vertical basketball stadium background with cheering crowd silhouettes in the stands. The stands and the crowd are fully continuous and go all the way across from the left side of the screen to the right side of the screen. There are NO central vertical columns, NO central vertical pillars, NO vertical stripes, and NO blocking bars in the middle of the screen. Flat 2D vector art style, clean simple shapes, high contrast, non-distracting for gameplay. Deep dark blue and deep purple background colors with subtle neon lighting.",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1824
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

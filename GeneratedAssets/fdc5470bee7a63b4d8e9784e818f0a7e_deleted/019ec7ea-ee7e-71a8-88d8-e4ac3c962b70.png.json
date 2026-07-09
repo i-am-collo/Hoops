@@ -1,0 +1,31 @@
+{
+    "asset": "fdc5470bee7a63b4d8e9784e818f0a7e",
+    "fileName": "019ec7ea-ee7e-71a8-88d8-e4ac3c962b70.png",
+    "prompt": "A colorful 2D cartoon-style basketball court background for a mobile game. The scene should be bright and vibrant, showing an outdoor streetball court with graffiti and bleachers. Flat vector art style, clean lines, no text, empty court, 16:9 aspect ratio.",
+    "negativePrompt": "",
+    "model": "gpt-image-1",
+    "modelName": "GPT Image 1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 1344
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

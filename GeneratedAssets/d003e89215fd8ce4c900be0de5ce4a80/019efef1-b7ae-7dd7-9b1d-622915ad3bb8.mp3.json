@@ -1,0 +1,15 @@
+{
+    "asset": "d003e89215fd8ce4c900be0de5ce4a80",
+    "fileName": "019efef1-b7ae-7dd7-9b1d-622915ad3bb8.mp3",
+    "prompt": "An energetic, fast-paced synthwave electro background music loop for an exciting nighttime level",
+    "negativePrompt": "",
+    "model": "google-lyria-3-clip",
+    "modelName": "Google Lyria 3 Clip",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

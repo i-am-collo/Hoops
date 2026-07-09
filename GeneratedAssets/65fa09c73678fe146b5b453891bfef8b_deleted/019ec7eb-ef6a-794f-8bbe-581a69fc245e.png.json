@@ -1,0 +1,31 @@
+{
+    "asset": "65fa09c73678fe146b5b453891bfef8b",
+    "fileName": "019ec7eb-ef6a-794f-8bbe-581a69fc245e.png",
+    "prompt": "A stylized 2D cartoon motion trail for a flying basketball. A sweeping, curved swoosh of glowing orange and yellow fire, flat vector style, transparent background, isolated on a solid white background.",
+    "negativePrompt": "",
+    "model": "gpt-image-1",
+    "modelName": "GPT Image 1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

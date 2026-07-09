@@ -1,0 +1,15 @@
+{
+    "asset": "7ddd36b8ab901a543910f66b70e47a89",
+    "fileName": "019eca56-452d-7acb-9c9f-b89fd0b12827.wav",
+    "prompt": "A heavy basketball bouncing off a solid metal rim, dull metallic clank, physical rattle bounce sound",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

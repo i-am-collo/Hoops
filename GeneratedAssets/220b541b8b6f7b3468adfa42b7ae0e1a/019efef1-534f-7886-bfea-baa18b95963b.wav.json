@@ -1,0 +1,15 @@
+{
+    "asset": "220b541b8b6f7b3468adfa42b7ae0e1a",
+    "fileName": "019efef1-534f-7886-bfea-baa18b95963b.wav",
+    "prompt": "A bright, high-energy retro arcade synthesizer chime celebrating a high score combo or streak",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 2.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

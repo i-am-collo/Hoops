@@ -1,0 +1,31 @@
+{
+    "asset": "751a7bd07c66efa4e9d6f2d924866d49",
+    "fileName": "019ec7ec-0e99-75db-a65d-5ca7f2ce8b25.png",
+    "prompt": "A 2D cartoon-style basketball hoop with a transparent glass backboard and a white net. Designed as a mobile game asset. Bright colors, flat vector shading, bold outlines, facing straight forward, isolated on a solid white background.",
+    "negativePrompt": "",
+    "model": "gpt-image-1",
+    "modelName": "GPT Image 1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

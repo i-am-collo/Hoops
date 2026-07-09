@@ -1,0 +1,15 @@
+{
+    "asset": "3461bf34f6466d745a965ee99d41d69a",
+    "fileName": "019efef1-3a42-7acd-990b-1747e3190178.wav",
+    "prompt": "A crisp, clean, satisfying retro 8-bit chiptune button click sound effect for game menu selection",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

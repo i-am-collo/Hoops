@@ -1,0 +1,15 @@
+{
+    "asset": "d20fe6283f508b84e84c850499e10650",
+    "fileName": "019efef1-4c5e-7bff-8de6-6645fc770009.mp3",
+    "prompt": "A cool, relaxed, ambient lo-fi electronic background music loop for a cozy dusk level",
+    "negativePrompt": "",
+    "model": "google-lyria-3-clip",
+    "modelName": "Google Lyria 3 Clip",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "063a8691503fd7d42a6b6e56a675fe41",
+    "fileName": "019efef1-5bf4-721c-b71c-bc7b01962134.mp3",
+    "prompt": "An upbeat, happy, bright 8-bit chiptune background music loop for a cheerful daytime level",
+    "negativePrompt": "",
+    "model": "google-lyria-3-clip",
+    "modelName": "Google Lyria 3 Clip",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

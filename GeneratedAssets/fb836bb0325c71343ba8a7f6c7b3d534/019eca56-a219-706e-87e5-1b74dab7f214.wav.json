@@ -1,0 +1,15 @@
+{
+    "asset": "fb836bb0325c71343ba8a7f6c7b3d534",
+    "fileName": "019eca56-a219-706e-87e5-1b74dab7f214.wav",
+    "prompt": "An indoor stadium crowd cheering, clapping, and shouting with excitement for a scored basket",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,31 @@
+{
+    "asset": "9c5a9d475227160438214526ff559456",
+    "fileName": "019eca2f-704e-7fe4-a8b9-ada3f89dd1a0.png",
+    "prompt": "A 2D stylized flat vector illustration of a basketball arena with a crowd of people in the stands, basketball court in the background, vibrant colors, cartoon game art style, clean shapes, high quality, 1024x1024",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 512,
+        "height": 512
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

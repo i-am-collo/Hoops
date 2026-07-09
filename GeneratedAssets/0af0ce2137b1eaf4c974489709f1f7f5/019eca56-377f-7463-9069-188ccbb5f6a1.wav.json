@@ -1,0 +1,15 @@
+{
+    "asset": "0af0ce2137b1eaf4c974489709f1f7f5",
+    "fileName": "019eca56-377f-7463-9069-188ccbb5f6a1.wav",
+    "prompt": "A classic retro arcade game over buzzer, loud electronic buzzer horn signifying time out",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

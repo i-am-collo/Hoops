@@ -1,0 +1,15 @@
+{
+    "asset": "1737a9dd3cabf7d469f0a3dd7bc71384",
+    "fileName": "019eca56-3d3c-76ba-b832-007da552bb31.wav",
+    "prompt": "A clean, crisp basketball swish through a nylon net, fast swoosh and fabric rustle, perfect satisfying score sound",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

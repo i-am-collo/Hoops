@@ -1,0 +1,41 @@
+{
+    "asset": "67e2c51bc170f984fad29dd74c9a1818",
+    "fileName": "019eca39-861b-7e50-8b94-873d97e3b4d9.png",
+    "prompt": "A 2D stylized flat vector illustration of a basketball arena with a crowd of people in the stands, basketball court floor at the bottom, matching the exact color scheme, style, and composition of the reference image, but completely remove the basketball hoop, backboard, and vertical stand from the center. The center of the court must be completely empty and open. Cartoon game art style, clean shapes, high quality, 1024x1024",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "2e845a9ba1b6217449e9a1ae8212ccf7",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 512,
+        "height": 512
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

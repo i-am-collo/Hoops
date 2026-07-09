@@ -1,0 +1,15 @@
+{
+    "asset": "a5f2b8b08ac43204489c5037a5622c4f",
+    "fileName": "019efef0-c4cf-7e9c-b2d3-26b5438929cc.wav",
+    "prompt": "A short, cheerful, celebratory retro 8-bit jingle for level up level completion",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 3.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

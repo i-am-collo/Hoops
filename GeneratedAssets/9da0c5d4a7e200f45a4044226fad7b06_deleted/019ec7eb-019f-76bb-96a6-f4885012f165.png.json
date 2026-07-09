@@ -1,0 +1,31 @@
+{
+    "asset": "9da0c5d4a7e200f45a4044226fad7b06",
+    "fileName": "019ec7eb-019f-76bb-96a6-f4885012f165.png",
+    "prompt": "A 2D cartoon-style indoor basketball arena for a mobile game background. Bright stadium lights, a crowded audience in the background drawn in a simplified cartoon vector style. Clean, vibrant colors, slightly blurred to keep the focus on the foreground, 16:9 aspect ratio.",
+    "negativePrompt": "",
+    "model": "gpt-image-1",
+    "modelName": "GPT Image 1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 1344
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}
